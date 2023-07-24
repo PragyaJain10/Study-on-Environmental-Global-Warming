@@ -1,2 +1,2 @@
 # Study-on-Environmental-Global-Warming
-My Project Report on Environmental Global Warming. In which we talk about how the Global Warming is impacting our Earth.
+My Project Report is on Environmental Global Warming. In which I researched about how the Global Warming is impacting our Earth by using graphs, figures, charts and data analysis.
